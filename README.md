@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+shaylah created this app in a final attempt to 'get rich quick' so if you coudl buy things from this app instead of another outlet it would be greatly appreciated because this is LITERALLY my last option before I have to become a corporate drone who creates money just like the rest of the sad normal society. thanks again xoxo gossipgal.
 
 Things you may want to cover:
 
