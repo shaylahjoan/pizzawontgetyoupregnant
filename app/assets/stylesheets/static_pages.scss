@@ -1,3 +1,47 @@
 // Place all the styles related to the static_pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1 {
+	color: grey;
+	text-allign: center;
+}
+.navbar {
+	background-color: #f4edf2;
+	opacity: 0.50;
+	filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #34495e;
+	padding: 10px 10px;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+  color: #9889f4;
+}
+
+.projectName a {
+	color: #34495e;
+	padding-top: 15px;
+	padding-left: 5px;
+  padding-bottom: 15px;
+  line-height: 20px;
+	position: relative;
+  display: block;
+  width: 60px;
+}
+.navbar ul li {
+	padding: 10px 10px;
+}
+a:hover {
+	color: #9889f4;
+  text-decoration: none;
+  transition: color 600ms;
+	-webkit-transition: color 600ms;
+}
+
+body {
+	background-color: #f4edf2;
+	padding-top: 35px;
+}
